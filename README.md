@@ -3,7 +3,7 @@
 - 👀 I’m interested in ML,NN,CNN,DL 
 - 📫 mark.henry@ucdconnect.ie
 - 😄 Currently building a website to provider users with code free deep learning analytics for Yahoo finance tickers.
-
+- Check out my website {www.stockanalytics.ie}(www.stockanalytics.ie)
 
 <!---
 markhen2/markhen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
