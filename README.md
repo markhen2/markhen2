@@ -2,7 +2,6 @@
 - 🌱 I'm currently a mathematics student at UCD 
 - 👀 I’m interested in ML,NN,CNN,DL 
 - 📫 mark.henry@ucdconnect.ie
-- 😄 Currently building a website to provider users with code free deep learning analytics for Yahoo finance tickers.
 - Check out my website www.stockanalytics.ie
 
 <!---
