@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @markhen2
 - 🌱 I'm currently a mathematics student at UCD 
-- 👀 I’m interested in ML,NN,CNN,DL 
+- 👀 At the moment i’m interested in ML, web scraping, computer vision
 - 📫 mark.henry@ucdconnect.ie
-- Check out my website www.stockanalytics.ie
+
+
 
 <!---
 markhen2/markhen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
